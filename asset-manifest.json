@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lucaspontoexe/pwa-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/lucaspontoexe/pwa-test/static/js/main.2d964309.chunk.js",
+    "main.js.map": "/lucaspontoexe/pwa-test/static/js/main.2d964309.chunk.js.map",
+    "runtime-main.js": "/lucaspontoexe/pwa-test/static/js/runtime-main.e29674c5.js",
+    "runtime-main.js.map": "/lucaspontoexe/pwa-test/static/js/runtime-main.e29674c5.js.map",
+    "static/js/2.58d298bd.chunk.js": "/lucaspontoexe/pwa-test/static/js/2.58d298bd.chunk.js",
+    "static/js/2.58d298bd.chunk.js.map": "/lucaspontoexe/pwa-test/static/js/2.58d298bd.chunk.js.map",
+    "index.html": "/lucaspontoexe/pwa-test/index.html",
+    "precache-manifest.f3ed1e11e85d7469080c8a5aab4a1620.js": "/lucaspontoexe/pwa-test/precache-manifest.f3ed1e11e85d7469080c8a5aab4a1620.js",
+    "service-worker.js": "/lucaspontoexe/pwa-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/lucaspontoexe/pwa-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.58d298bd.chunk.js.LICENSE.txt": "/lucaspontoexe/pwa-test/static/js/2.58d298bd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lucaspontoexe/pwa-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e29674c5.js",
+    "static/js/2.58d298bd.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2d964309.chunk.js"
+  ]
+}
