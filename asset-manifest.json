@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lucaspontoexe/pwatest/static/css/main.5f361e03.chunk.css",
-    "main.js": "/lucaspontoexe/pwatest/static/js/main.9aca7e7d.chunk.js",
-    "main.js.map": "/lucaspontoexe/pwatest/static/js/main.9aca7e7d.chunk.js.map",
-    "runtime-main.js": "/lucaspontoexe/pwatest/static/js/runtime-main.4c5de5fd.js",
-    "runtime-main.js.map": "/lucaspontoexe/pwatest/static/js/runtime-main.4c5de5fd.js.map",
-    "static/js/2.58d298bd.chunk.js": "/lucaspontoexe/pwatest/static/js/2.58d298bd.chunk.js",
-    "static/js/2.58d298bd.chunk.js.map": "/lucaspontoexe/pwatest/static/js/2.58d298bd.chunk.js.map",
-    "index.html": "/lucaspontoexe/pwatest/index.html",
-    "precache-manifest.86c2b0f139f330022b24d8233cb4411e.js": "/lucaspontoexe/pwatest/precache-manifest.86c2b0f139f330022b24d8233cb4411e.js",
-    "service-worker.js": "/lucaspontoexe/pwatest/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/lucaspontoexe/pwatest/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.58d298bd.chunk.js.LICENSE.txt": "/lucaspontoexe/pwatest/static/js/2.58d298bd.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/lucaspontoexe/pwatest/static/media/logo.5d5d9eef.svg"
+    "main.css": "/pwatest/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pwatest/static/js/main.2c597d77.chunk.js",
+    "main.js.map": "/pwatest/static/js/main.2c597d77.chunk.js.map",
+    "runtime-main.js": "/pwatest/static/js/runtime-main.846c36ee.js",
+    "runtime-main.js.map": "/pwatest/static/js/runtime-main.846c36ee.js.map",
+    "static/js/2.58d298bd.chunk.js": "/pwatest/static/js/2.58d298bd.chunk.js",
+    "static/js/2.58d298bd.chunk.js.map": "/pwatest/static/js/2.58d298bd.chunk.js.map",
+    "index.html": "/pwatest/index.html",
+    "precache-manifest.7cff24214595e5f7ee7e16bacf7a03b4.js": "/pwatest/precache-manifest.7cff24214595e5f7ee7e16bacf7a03b4.js",
+    "service-worker.js": "/pwatest/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pwatest/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.58d298bd.chunk.js.LICENSE.txt": "/pwatest/static/js/2.58d298bd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pwatest/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c5de5fd.js",
+    "static/js/runtime-main.846c36ee.js",
     "static/js/2.58d298bd.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9aca7e7d.chunk.js"
+    "static/js/main.2c597d77.chunk.js"
   ]
 }
