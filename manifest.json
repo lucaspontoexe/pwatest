@@ -22,7 +22,6 @@
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
-
   "share_target": {
     "action": "./upload",
     "method": "POST",
